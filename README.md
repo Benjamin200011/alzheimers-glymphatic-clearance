@@ -32,5 +32,4 @@ To comply with the Alzheimer's Disease Neuroimaging Initiative (ADNI) Data Use A
 To reproduce these survival models:
 1. Apply for data access at [adni.loni.usc.edu](https://adni.loni.usc.edu/).
 2. Download the matched UPENN CSF (Roche Elecsys) and Plasma (Quanterix Simoa) biomarker files, alongside the ADNIMERGE core clinical file.
-3. Run the temporal alignment and data cleaning protocols outlined in `1_Data_Alignment.py`.
-4. Execute the Cox proportional hazards and bifurcation algorithms in `2_Survival_Bifurcation.py`.
+3. Run the temporal alignment and data cleaning protocols outlined and Execute the Cox proportional hazards and bifurcation algorithms in `CMap_Integration(1).ipynb`.
